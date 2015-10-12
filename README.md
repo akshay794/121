@@ -4,5 +4,7 @@ displaying a message
 #include<iostream.h>
 void main()
 {
-cout<<"";
+cout<<"hello akshay";
+cout<<"hello rahul";
+
 }
